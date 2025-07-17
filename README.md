@@ -12,6 +12,8 @@ https://playbooklab.notion.site/calltranscript-crm
 
 https://claude.ai/
 
+https://www.anthropic.com/claude
+
 ## Infra
 
 https://www.linkedin.com/posts/leonardo-marcelino-923535241_tecnologia-suporteti-infraestrutura-activity-7341267026776109056-uU2M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
