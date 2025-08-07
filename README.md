@@ -28,3 +28,5 @@ https://www.linkedin.com/posts/leonardo-marcelino-923535241_tecnologia-suporteti
 ## DTA TOTVS
 
 https://totvs.dta.totvs.ai/admin/#/auth?redirect=%2Fhome
+
+https://totvs.dta.totvs.ai/admin/#/public/playground/messages
