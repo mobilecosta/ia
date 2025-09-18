@@ -27,6 +27,9 @@ https://youtube.com/shorts/TxbKXG9DM9I?si=88cTWVpYQ7xA0XMK
 
 https://www.linkedin.com/posts/leonardo-marcelino-923535241_tecnologia-suporteti-infraestrutura-activity-7341267026776109056-uU2M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
+## N8N
+https://www.linkedin.com/posts/luciola-coelho-agencia-de-ia_se-voc%C3%AA-deseja-criar-agentes-n8n-n%C3%A3o-precisa-activity-7374026874433380352-eC6z?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
+
 
 ## DTA TOTVS
 
