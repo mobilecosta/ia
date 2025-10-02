@@ -39,3 +39,6 @@ https://www.linkedin.com/posts/luciola-coelho-agencia-de-ia_se-voc%C3%AA-deseja-
 https://totvs.dta.totvs.ai/admin/#/auth?redirect=%2Fhome
 
 https://totvs.dta.totvs.ai/admin/#/public/playground/messages
+
+## NoteBook LM
+https://www.youtube.com/watch?v=DiPksXn5H-I
