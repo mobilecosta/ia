@@ -26,6 +26,8 @@ https://www.anthropic.com/claude
 ## DotNet
 https://youtube.com/shorts/TxbKXG9DM9I?si=88cTWVpYQ7xA0XMK
 
+https://www.linkedin.com/posts/mrctito_github-petrusjeagentsharp-agents-framework-activity-7380744702905618432-8cre?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
+
 ## Infra
 
 https://www.linkedin.com/posts/leonardo-marcelino-923535241_tecnologia-suporteti-infraestrutura-activity-7341267026776109056-uU2M?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
