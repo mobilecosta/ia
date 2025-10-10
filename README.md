@@ -35,6 +35,9 @@ https://www.linkedin.com/posts/leonardo-marcelino-923535241_tecnologia-suporteti
 ## N8N
 https://www.linkedin.com/posts/luciola-coelho-agencia-de-ia_se-voc%C3%AA-deseja-criar-agentes-n8n-n%C3%A3o-precisa-activity-7374026874433380352-eC6z?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
+https://www.linkedin.com/posts/diego-bueno-cruzeiro-sp_n8n-automaaexaeto-workflow-activity-7382189477500354560-xa1L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
+
+https://www.linkedin.com/posts/ricnvs_ia-openai-agentbuilder-activity-7381267073399934976-v8Hd/?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
 ## DTA TOTVS
 
@@ -44,3 +47,6 @@ https://totvs.dta.totvs.ai/admin/#/public/playground/messages
 
 ## NoteBook LM
 https://www.youtube.com/watch?v=DiPksXn5H-I
+
+## Google
+https://www.linkedin.com/posts/luciola-coelho-agencia-de-ia_google-escolaia-a1aescolaiadobrasil-activity-7377344958430711808-lQRb?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
