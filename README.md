@@ -39,6 +39,9 @@ https://www.linkedin.com/posts/diego-bueno-cruzeiro-sp_n8n-automaaexaeto-workflo
 
 https://www.linkedin.com/posts/ricnvs_ia-openai-agentbuilder-activity-7381267073399934976-v8Hd/?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
 
+## HashTag Treinamentos
+https://www.youtube.com/watch?v=CNO3WNAEonI
+
 ## DTA TOTVS
 
 https://totvs.dta.totvs.ai/admin/#/auth?redirect=%2Fhome
