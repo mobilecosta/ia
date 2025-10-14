@@ -48,6 +48,10 @@ https://totvs.dta.totvs.ai/admin/#/auth?redirect=%2Fhome
 
 https://totvs.dta.totvs.ai/admin/#/public/playground/messages
 
+## SEBRAE
+
+https://aws-sebraestartups.ontidwit.com/#/content-items?id=fede26d7-3ad6-4d4b-9ae7-007c5a8bb48f&action=login
+
 ## NoteBook LM
 https://www.youtube.com/watch?v=DiPksXn5H-I
 
