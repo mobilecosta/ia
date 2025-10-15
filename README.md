@@ -52,6 +52,9 @@ https://totvs.dta.totvs.ai/admin/#/public/playground/messages
 
 https://aws-sebraestartups.ontidwit.com/#/content-items?id=fede26d7-3ad6-4d4b-9ae7-007c5a8bb48f&action=login
 
+## MicroSoft
+https://ai.azure.com/
+
 ## NoteBook LM
 https://www.youtube.com/watch?v=DiPksXn5H-I
 
