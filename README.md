@@ -60,3 +60,6 @@ https://www.youtube.com/watch?v=DiPksXn5H-I
 
 ## Google
 https://www.linkedin.com/posts/luciola-coelho-agencia-de-ia_google-escolaia-a1aescolaiadobrasil-activity-7377344958430711808-lQRb?utm_source=share&utm_medium=member_android&rcm=ACoAAAS_d84BXtjQKMTY1zd7Lar4QjmTRl6_DMU
+
+## Imagens
+https://grok.com/
