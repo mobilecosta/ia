@@ -55,6 +55,9 @@ https://aws-sebraestartups.ontidwit.com/#/content-items?id=fede26d7-3ad6-4d4b-9a
 ## MicroSoft
 https://ai.azure.com/
 
+## MCP
+https://www.youtube.com/watch?v=3n7T-6fNQp4
+
 ## NoteBook LM
 https://www.youtube.com/watch?v=DiPksXn5H-I
 
