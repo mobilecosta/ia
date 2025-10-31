@@ -1,6 +1,8 @@
 # ia
 Informações sobre IA
 
+## MicroSoft - https://ai.azure.com/
+
 1) Pratica - https://www.youtube.com/watch?v=FKs4CHWDmBo
 
 https://github.com/renatogroffe/dotnet9-semantickernel-otel-jaeger-mcp-mslearn_chat
