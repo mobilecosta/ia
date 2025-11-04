@@ -7,6 +7,8 @@ Informações sobre IA
 
 https://github.com/renatogroffe/dotnet9-semantickernel-otel-jaeger-mcp-mslearn_chat
 
+https://blog.balta.io/microsoft-agent-framework/?utm_source=ActiveCampaign&utm_medium=email&utm_content=Microsoft%20Agent%20Framework%3A%20o%20futuro%20da%20IA%20chegou%21%20%F0%9F%A4%AF&utm_campaign=V%C3%ADdeo%20-%20Microsoft%20Agent%20Framework%20%28Copiar%29
+
 ## YouTube
 https://www.youtube.com/@sanclermiranda
 
