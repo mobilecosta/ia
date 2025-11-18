@@ -73,3 +73,6 @@ https://www.linkedin.com/posts/luciola-coelho-agencia-de-ia_google-escolaia-a1ae
 
 ## Imagens
 https://grok.com/
+
+## Ferramentas
+https://replit.com/~
