@@ -76,3 +76,7 @@ https://grok.com/
 
 ## Ferramentas
 https://replit.com/~
+
+https://alpha.dualite.dev/onboarding?utm_source=helio
+
+https://antigravity.google/
