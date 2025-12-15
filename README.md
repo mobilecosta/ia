@@ -74,6 +74,8 @@ https://www.linkedin.com/posts/luciola-coelho-agencia-de-ia_google-escolaia-a1ae
 ## Imagens
 https://grok.com/
 
+## Analise Site - https://chrome.dev/devtools-ask-performance/?utm_source=google-hpp&utm_medium=referral&utm_campaign=Q4HPP-ChromeAI#intro
+
 ## Musicas
 ## https://www.aisongmaker.io/
 
