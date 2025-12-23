@@ -80,6 +80,9 @@ https://grok.com/
 ## https://www.aisongmaker.io/
 
 ## Ferramentas
+https://www.youtube.com/watch?v=zjzmjcIypGg
+
+## Ferramentas
 https://replit.com/~
 
 https://alpha.dualite.dev/onboarding?utm_source=helio
