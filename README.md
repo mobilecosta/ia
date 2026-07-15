@@ -88,3 +88,8 @@ https://replit.com/~
 https://alpha.dualite.dev/onboarding?utm_source=helio
 
 https://antigravity.google/
+
+## SKILLS
+https://github.com/ftvernier/erp-solutions/tree/main/claude/sql-postgres-converter
+
+
