@@ -98,4 +98,25 @@ https://github.com/ftvernier/erp-solutions/tree/main/claude/sql-postgres-convert
 
 # https://www.kimi.com/
 
+## IA Open
+🤖 Kimi 2.6: Explore um verdadeiro enxame de agentes para diversas tarefas.
+
+​🎵 MiniMax 2.7 & Hailuo 2.3: Gere músicas e vídeos de alta qualidade em segundos.
+
+​👁️ GLM-5.1 Turbo: Potência em visão computacional e análise de dados.
+
+​🖼️ Qwen 3.6 (Alibaba): Ferramenta completa para gerar imagens e vídeos incríveis.
+
+​🔍 DeepSeek: A queridinha para pesquisas profundas e precisas.
+
+​🎙️ StepFun: Um estúdio criativo na palma da sua mão.
+
+​🎬 Dreamina (Bytedance): Dos mesmos criadores do CapCut, focada em conteúdo visual.
+
+​🧠 Ernie 5.1 (Baidu): O modelo de linguagem mais robusto da gigante chinesa.
+
+​📱 Xiaomi MiMo Studio: A inteligência artificial da Xiaomi agora disponível para você.
+
+​💻 Yuanbao: A aliada perfeita para quem precisa de ajuda com programação e códigos.
+
 
