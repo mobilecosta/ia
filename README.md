@@ -120,3 +120,65 @@ https://github.com/ftvernier/erp-solutions/tree/main/claude/sql-postgres-convert
 ​💻 Yuanbao: A aliada perfeita para quem precisa de ajuda com programação e códigos.
 
 
+## GLM 5.2
+GLM 5.2 chegou oficialmente e pode ser um dos modelos de codificação de IA mais subestimados de 2026. Neste vídeo, vou mostrar-te como executar o GLM 5.2 totalmente GRÁTIS dentro do VS Code, conectá-lo ao OpenCode e usar o Google Antigravity para construir aplicações do mundo real mais rapidamente usando a IA.
+
+A parte mais surpreendente?
+
+👉 Acesso GRATUITO
+👉 Desempenho de codificação poderoso
+👉 Integração VS Code
+👉 Suporte ao OpenCode
+👉 Trabalha com fluxos de trabalho Antigravidade
+👉 Não é necessária uma assinatura cara do Claude
+
+Muitos desenvolvedores estão atualmente procurando alternativas para Claude Code, Cursor e outros assistentes de codificação de IA pagos. GLM 5.2 está se tornando um concorrente sério graças à sua codificação, raciocínio, uso de ferramentas e capacidades agênticas.
+
+Se estiver procurando por:
+
+👉 Tutorial GLM 5.2
+👉 Guia de Configuração GLM 5.2
+👉 Código Claude Alternativo
+👉 Assistente de Codificação de IA grátis
+👉 Tutorial OpenCode
+👉 Configuração VS Code AI
+👉 Tutorial Antigravidade
+👉 Modelo de Codificação Grátis 2026
+👉 Fluxo de trabalho de codificação de IA
+👉 Tutorial de IA dos Trabalhadores Cloudflare
+
+... então este vídeo é para ti.
+
+📚 O que vais aprender
+
+✅ O que é GLM 5.2?
+✅ Por que os desenvolvedores estão falando sobre GLM 5.2
+✅ Desempenho de codificação GLM 5.2
+✅ Configure o GLM 5.2 dentro do VS Code
+✅ Configurar OpenCode
+✅ Conecte modelos de IA ao seu fluxo de trabalho
+✅ Use GLM 5.2 para codificação de projetos
+✅ Construa aplicações usando Antigravidade
+✅ Melhore a produtividade do desenvolvedor
+✅ Alternativas gratuitas ao Código Claude
+✅ Fluxo de trabalho de codificação de IA para desenvolvedores
+✅ Melhores modelos de codificação grátis em 2026
+
+⚡ Por que o GLM 5.2 é interessante
+
+• GRÁTIS para começar
+• Forte desempenho de codificação
+• Grandes habilidades de raciocínio
+• Integração VS Code
+• Funciona com OpenCode
+• Apoia fluxos de trabalho agênticos
+• Útil para desenvolvedores, estudantes e engenheiros de IA
+• Excelente alternativa para assistentes de codificação caros
+
+Perfeito para:
+
+Desenvolvedores usando a API Claude
+Aprendizes de IA / Ciência de Dados
+Iniciantes explorando LLMs
+Pessoas procurando ferramentas de IA gratuitas
+Alguém quer reduzir o custo da API de IA
