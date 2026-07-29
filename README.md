@@ -98,6 +98,8 @@ https://github.com/ftvernier/erp-solutions/tree/main/claude/sql-postgres-convert
 
 # https://www.kimi.com/
 
+https://github.com/chaitin/MonkeyCode - https://monkeycode-ai.net/login
+
 ## IA Open
 🤖 Kimi 2.6: Explore um verdadeiro enxame de agentes para diversas tarefas.
 
