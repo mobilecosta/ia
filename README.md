@@ -94,6 +94,9 @@ https://t3.codes/
 ## SKILLS
 https://github.com/ftvernier/erp-solutions/tree/main/claude/sql-postgres-converter
 
+## Automações:
+https://getwingmanai.com/
+
 ## Testes
 
 # https://www.kimi.com/
