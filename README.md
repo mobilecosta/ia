@@ -103,6 +103,8 @@ https://getwingmanai.com/
 
 https://github.com/chaitin/MonkeyCode - https://monkeycode-ai.net/login
 
+https://openrain.ai/
+
 ## IA Open
 🤖 Kimi 2.6: Explore um verdadeiro enxame de agentes para diversas tarefas.
 
