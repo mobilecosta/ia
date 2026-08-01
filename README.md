@@ -1,6 +1,10 @@
 # ia
 Informações sobre IA
 
+## MCP
+
+https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
+
 ## MicroSoft - https://ai.azure.com/
 
 1) Pratica - https://www.youtube.com/watch?v=FKs4CHWDmBo
