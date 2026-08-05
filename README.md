@@ -5,6 +5,24 @@ Informações sobre IA
 
 https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
 
+## Claude Code e o MCP.
+1. 🔗 https://lnkd.in/eCCT4YK6
+
+2. Aprofunde-se nos três pilares principais:
+
+→ Documentação do MCP: https://lnkd.in/eMFTyPvG
+→ Skills: https://lnkd.in/eBbe592U
+→ Documentação da API: https://lnkd.in/eddEAUs9
+
+3. Estude o Guia Oficial do Exame. Ele contém o conteúdo completo da prova e questões de exemplo com justificativas.
+🔗 https://lnkd.in/e56V_TeQ
+
+4. Saiba mais e faça o exame simulado
+🔗 https://lnkd.in/eRa_8Phh
+
+5. Inscreva-se e faça o exame
+🔗 https://lnkd.in/eSdiGNV4
+
 ## MicroSoft - https://ai.azure.com/
 
 1) Pratica - https://www.youtube.com/watch?v=FKs4CHWDmBo
