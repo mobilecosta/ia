@@ -23,6 +23,50 @@ https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
 5. Inscreva-se e faça o exame
 🔗 https://lnkd.in/eSdiGNV4
 
+## NVIDIA
+𝟭. 𝗖𝗼𝗻𝘀𝘁𝗿𝘂𝗶𝗻𝗱𝗼 𝘂𝗺 𝗖𝗲́𝗿𝗲𝗯𝗿𝗼 𝗲𝗺 𝟭𝟬 𝗠𝗶𝗻𝘂𝘁𝗼𝘀
+
+Uma breve introdução às inspirações biológicas e psicológicas por trás das redes neurais.
+🔗 https://lnkd.in/gWiXhWQS
+
+𝟮. 𝗜𝗔 𝗚𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗮 𝗘𝘅𝗽𝗹𝗶𝗰𝗮𝗱𝗮
+
+Um curso sem programação que aborda os conceitos de IA generativa, aplicações no mundo real e os desafios e oportunidades da área.
+🔗 https://lnkd.in/g63pyDFH
+
+𝟯. 𝗙𝘂𝗻𝗱𝗮𝗺𝗲𝗻𝘁𝗼𝘀 𝗱𝗼 𝗔𝗽𝗿𝗲𝗻𝗱𝗶𝘇𝗮𝗱𝗼 𝗱𝗲 𝗜𝗔
+
+Um curso introdutório rápido sobre como aplicar IA generativa, RAG e técnicas de ciência de dados em cerca de duas horas.
+🔗 https://lnkd.in/gtHdTk7m
+
+𝟰. 𝗖𝗼𝗺𝗲𝗰̧𝗮𝗻𝗱𝗼 𝗰𝗼𝗺 𝗜𝗔 𝗻𝗼 𝗝𝗲𝘁𝘀𝗼𝗻 𝗡𝗮𝗻𝗼
+
+Aprenda a treinar, otimizar e implantar modelos de IA na plataforma de dispositivos de borda da NVIDIA.
+🔗 https://lnkd.in/gfAbF34n
+
+𝟱. 𝗔𝗰𝗲𝗹𝗲𝗿𝗲 𝗙𝗹𝘂𝘅𝗼𝘀 𝗱𝗲 𝗧𝗿𝗮𝗯𝗮𝗹𝗵𝗼 𝗱𝗲 𝗖𝗶𝗲̂𝗻𝗰𝗶𝗮 𝗱𝗲 𝗗𝗮𝗱𝗼𝘀 𝘀𝗲𝗺 𝗔𝗹𝘁𝗲𝗿𝗮𝗿 𝗼 𝗖𝗼́𝗱𝗶𝗴𝗼
+
+Use o RAPIDS para acelerar fluxos de trabalho existentes de ciência de dados sem reescrever seu código.
+🔗 https://lnkd.in/g6SA3Ydr
+
+𝟲. 𝗗𝗲𝘀𝗲𝗻𝘃𝗼𝗹𝘃𝗶𝗺𝗲𝗻𝘁𝗼 𝗥𝗮́𝗽𝗶𝗱𝗼 𝗱𝗲 𝗔𝗽𝗹𝗶𝗰𝗮𝗰̧𝗼̃𝗲𝘀 𝗰𝗼𝗺 𝗚𝗿𝗮𝗻𝗱𝗲𝘀 𝗠𝗼𝗱𝗲𝗹𝗼𝘀 𝗱𝗲 𝗟𝗶𝗻𝗴𝘂𝗮𝗴𝗲𝗺
+
+Crie aplicações com LLMs usando o ecossistema de código aberto da NVIDIA e ferramentas práticas de desenvolvimento.
+🔗 https://lnkd.in/ghvsejvy
+
+𝟳. 𝗖𝗼𝗻𝘀𝘁𝗿𝘂𝗶𝗻𝗱𝗼 𝗔𝗴𝗲𝗻𝘁𝗲𝘀 𝗥𝗔𝗚 𝗰𝗼𝗺 𝗟𝗟𝗠𝘀
+
+Projete sistemas de geração aumentada por recuperação usando LangChain, embeddings, gerenciamento de diálogo e avaliação.
+🔗 https://lnkd.in/gGMN92eb
+
+𝟴. 𝗖𝗼𝗻𝘀𝘁𝗿𝘂𝗶𝗻𝗱𝗼 𝗔𝗽𝗹𝗶𝗰𝗮𝗰̧𝗼̃𝗲𝘀 𝗱𝗲 𝗜𝗔 𝗔𝗴𝗲̂𝗻𝘁𝗶𝗰𝗮 𝗰𝗼𝗺 𝗟𝗟𝗠𝘀
+
+Um curso avançado sobre uso de ferramentas, planejamento, memória e raciocínio em múltiplas etapas para sistemas de IA agêntica.
+🔗 https://lnkd.in/gvnCwmst
+
+BÔNUS: Se você quiser mais, explore o catálogo completo aqui:
+https://lnkd.in/d53QnC4k
+
 ## MicroSoft - https://ai.azure.com/
 
 1) Pratica - https://www.youtube.com/watch?v=FKs4CHWDmBo
