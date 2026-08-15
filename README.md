@@ -2,7 +2,7 @@
 Informações sobre IA
 
 #Open Router
-http://localhost:20128/dashboard
+http://localhost:20128/dashboard - https://9router.com/#get-started
 
 ## MCP
 
