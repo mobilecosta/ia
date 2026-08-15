@@ -1,6 +1,9 @@
 # ia
 Informações sobre IA
 
+#Open Router
+http://localhost:20128/dashboard
+
 ## MCP
 
 https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
