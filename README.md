@@ -26,6 +26,11 @@ https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
 5. Inscreva-se e faça o exame
 🔗 https://lnkd.in/eSdiGNV4
 
+## OPEN CODE / DEEPSEEK
+https://www.youtube.com/watch?v=DydqGiK0f-Y&pp=ugUEEgJwdNIHCQkTDAGHKiGM7w%3D%3D
+
+https://www.youtube.com/watch?v=eQYHVJP1u9A&pp=ugUHEgVwdC1CUg%3D%3D
+
 ## NVIDIA
 𝟭. 𝗖𝗼𝗻𝘀𝘁𝗿𝘂𝗶𝗻𝗱𝗼 𝘂𝗺 𝗖𝗲́𝗿𝗲𝗯𝗿𝗼 𝗲𝗺 𝟭𝟬 𝗠𝗶𝗻𝘂𝘁𝗼𝘀
 
