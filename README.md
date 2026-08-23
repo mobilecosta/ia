@@ -26,6 +26,9 @@ https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
 5. Inscreva-se e faça o exame
 🔗 https://lnkd.in/eSdiGNV4
 
+## Uso de Claude com gastos reduzidos
+https://www.youtube.com/watch?v=0I83GmuUjDI
+
 ## OPEN CODE / DEEPSEEK
 https://www.youtube.com/watch?v=DydqGiK0f-Y&pp=ugUEEgJwdNIHCQkTDAGHKiGM7w%3D%3D
 
