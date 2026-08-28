@@ -11,6 +11,8 @@ https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
 ## FreeLLMAPI
 https://www.youtube.com/watch?v=BiZHi9LSbkQ
 
+https://freellmapi.co/
+
 ## Claude Code e o MCP.
 1. 🔗 https://lnkd.in/eCCT4YK6
 
