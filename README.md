@@ -13,6 +13,9 @@ https://www.youtube.com/watch?v=BiZHi9LSbkQ
 
 https://freellmapi.co/
 
+## IA Free
+https://chat.b.ai/key
+
 ## Claude Code e o MCP.
 1. 🔗 https://lnkd.in/eCCT4YK6
 
