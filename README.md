@@ -16,6 +16,8 @@ https://freellmapi.co/
 ## IA Free
 https://chat.b.ai/key
 
+https://github.com/alishahryar1/free-claude-code
+
 ## Claude Code e o MCP.
 1. 🔗 https://lnkd.in/eCCT4YK6
 
