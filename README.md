@@ -20,6 +20,8 @@ https://github.com/alishahryar1/free-claude-code
 
 https://www.youtube.com/watch?v=lofRLq_Vgl0
 
+https://github.com/codeaashu/free-claude-code
+
 ## Claude Code e o MCP.
 1. 🔗 https://lnkd.in/eCCT4YK6
 
