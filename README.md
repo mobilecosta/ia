@@ -23,6 +23,8 @@ https://www.youtube.com/watch?v=lofRLq_Vgl0
 https://github.com/codeaashu/free-claude-code
 
 ## Claude Code e o MCP.
+https://github.com/anthropics/claude-code
+
 1. 🔗 https://lnkd.in/eCCT4YK6
 
 2. Aprofunde-se nos três pilares principais:
