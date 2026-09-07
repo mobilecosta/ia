@@ -22,6 +22,9 @@ https://www.youtube.com/watch?v=lofRLq_Vgl0
 
 https://github.com/codeaashu/free-claude-code
 
+## Testes IA
+https://github.com/Leonxlnx/unlazy
+
 ## Claude Code e o MCP.
 https://github.com/anthropics/claude-code
 
