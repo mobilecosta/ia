@@ -27,6 +27,8 @@ https://github.com/codeaashu/free-claude-code
 ## Testes IA
 https://github.com/Leonxlnx/unlazy
 
+## Hermes - https://www.youtube.com/watch?v=I0FPHlsQTLc
+
 ## Claude Code e o MCP.
 https://lnkd.in/p/ejTaXVNA
 
