@@ -13,6 +13,8 @@ https://www.youtube.com/watch?v=BiZHi9LSbkQ
 
 https://freellmapi.co/
 
+## Studio LM - Qwen 3.8 - https://www.youtube.com/shorts/974xn5bQMpg
+
 ## IA Free
 https://chat.b.ai/key
 
