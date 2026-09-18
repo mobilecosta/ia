@@ -17,7 +17,7 @@ https://freellmapi.co/
 
 ## Open Code
 
-## https://coder.qwen.ai/
+## https://coder.qwen.ai/ - https://chat.qwen.ai/
 
 ## Studio LM - Qwen 3.8 - https://www.youtube.com/shorts/974xn5bQMpg
 
