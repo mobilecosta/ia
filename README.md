@@ -23,6 +23,8 @@ https://freellmapi.co/
 
 Git Reverse - https://lnkd.in/p/d8PPpF-5
 
+## Bagre - https://lnkd.in/p/ddqe7RJm
+
 ## IA Free
 https://chat.b.ai/key
 
