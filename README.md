@@ -303,3 +303,6 @@ Pessoas procurando ferramentas de IA gratuitas
 Alguém quer reduzir o custo da API de IA
 
 https://www.hostgator.com.br/all-pass
+
+## Ferramentas
+https://lnkd.in/p/dwV2gePm
