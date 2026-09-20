@@ -27,6 +27,10 @@ Git Reverse - https://lnkd.in/p/d8PPpF-5
 
 https://github.com/HKUDS/DeepCode
 
+## Agentes
+
+## https://github.com/agent-kit-startup/agent-kit
+
 ## IA Free
 https://chat.b.ai/key
 
