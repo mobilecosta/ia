@@ -25,6 +25,8 @@ Git Reverse - https://lnkd.in/p/d8PPpF-5
 
 ## Bagre - https://lnkd.in/p/ddqe7RJm
 
+https://github.com/HKUDS/DeepCode
+
 ## IA Free
 https://chat.b.ai/key
 
