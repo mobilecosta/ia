@@ -15,6 +15,8 @@ https://www.youtube.com/watch?v=BiZHi9LSbkQ
 
 https://freellmapi.co/
 
+## Tokens - https://lnkd.in/p/dariqwzJ
+
 ## Open Code
 
 ## https://coder.qwen.ai/ - https://chat.qwen.ai/
