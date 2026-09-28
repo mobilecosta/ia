@@ -31,6 +31,8 @@ https://github.com/HKUDS/DeepCode
 
 ## https://github.com/agent-kit-startup/agent-kit
 
+## Deep Claude - https://www.youtube.com/watch?v=85fhyazvI8Y
+
 ## IA Free
 https://chat.b.ai/key
 
