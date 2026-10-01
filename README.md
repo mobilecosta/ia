@@ -316,3 +316,50 @@ https://www.hostgator.com.br/all-pass
 
 ## Ferramentas
 https://lnkd.in/p/dwV2gePm
+
+## Claude Code
+🚀 Vou compartilhar como estou trabalhando com Claude Code ultimamente.
+Tenho usado uma estrutura que está funcionando muito bem para mim:
+Opus 5.5 escreve e coordena o trabalho.
+Fable 5.1 entra como uma segunda opinião nos momentos importantes.
+No Claude Code, basta usar:
+/advisor fable
+Quando o Opus consulta o Fable, ele recebe o contexto da sessão, incluindo as chamadas de ferramentas e seus resultados.
+Na prática, estou usando essa segunda opinião principalmente em três momentos:
+→ 🧠 Antes de criar um plano grande: a abordagem faz sentido?
+→ 🐛 Quando um erro começa a se repetir: estamos investigando o lugar certo?
+→ ✅ Antes de finalizar uma tarefa longa: ficou alguma coisa importante para trás?
+Tudo isso sem precisar ficar copiando e colando contexto entre chats.
+Além disso, estou organizando o trabalho com uma estrutura de agentes:
+→ Opus 5.5 com esforço alto coordenando a sessão
+→ explorer para ler e explorar o código
+→ worker para editar e executar testes
+→ researcher para consultar documentação
+→ Os três subagentes usando Opus com esforço médio
+→ Fable 5.1 disponível como advisor para revisar decisões importantes
+A lógica que estou seguindo é:
+um agente principal coordena, agentes especializados executam e um segundo modelo ajuda a revisar.
+Para quem quiser testar uma estrutura parecida, este é o prompt que estou usando:
+“Reorganize minha configuração do Claude Code com esta estrutura:
+Revise ~/.claude/agents e .claude/agents para encontrar subagentes que já cubram os papéis explorer, worker e researcher.
+Proponha novos subagentes apenas para os papéis que estiverem faltando.
+Configure os correspondentes com model: opus e effort: medium.
+Se algum deles estiver configurado com outro modelo, não o modifique e apenas liste.
+Configure a sessão principal com effortLevel: high e advisorModel: fable em ~/.claude/settings.json.
+Procure por CLAUDE_CODE_DISABLE_ADVISOR_TOOL, DISABLE_TELEMETRY e qualquer variável que possa impedir a obtenção das feature flags necessárias para ativar o advisor.
+Verifique também CLAUDE_CODE_EFFORT_LEVEL, que pode sobrescrever o nível de esforço dos subagentes.
+Informe o que encontrar, mas não modifique essas variáveis.
+Adicione esta regra a ~/.claude/CLAUDE.md:
+Consulte o advisor antes de elaborar um plano grande, quando um erro se repetir e antes de considerar concluída uma tarefa longa.
+Mostre primeiro todas as alterações propostas como diff.
+Não edite nada até que eu dê permissão.”
+⚠️ O advisor ainda é uma função experimental e requer acesso ao Fable.
+As consultas também consomem tokens adicionais, então não vejo sentido em usar o advisor para tudo.
+Estou usando principalmente como uma segunda opinião em momentos de decisão ou verificação.
+A estrutura, no fim, fica mais ou menos assim:
+planejar → explorar → executar → testar → revisar → finalizar.
+Tenho gostado bastante dessa forma de trabalhar. 👨‍💻🚀
+Salva para testar na sua próxima sessão com Claude Code.
+
+<img width="820" height="882" alt="image" src="https://github.com/user-attachments/assets/b4f8850d-e194-45b7-b705-b796655c3e42" />
+
