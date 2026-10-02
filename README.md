@@ -52,6 +52,8 @@ https://github.com/Leonxlnx/unlazy
 ## Claude Code e o MCP.
 https://lnkd.in/p/ejTaXVNA
 
+https://lnkd.in/p/eNJ-cqPJ
+
 https://github.com/anthropics/claude-code
 
 1. 🔗 https://lnkd.in/eCCT4YK6
