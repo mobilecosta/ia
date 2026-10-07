@@ -6,6 +6,8 @@ http://localhost:20128/dashboard - https://9router.com/#get-started
 
 ## Ferramentas - https://lnkd.in/p/dQA_XH2C
 
+https://aimemorybr.netlify.app/pt-br/solutions/individuals/
+
 ## MCP
 
 https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
