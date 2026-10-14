@@ -8,6 +8,8 @@ http://localhost:20128/dashboard - https://9router.com/#get-started
 
 https://aimemorybr.netlify.app/pt-br/solutions/individuals/
 
+https://github.com/diogobritodesign/tokenbar
+
 ## MCP
 
 https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
