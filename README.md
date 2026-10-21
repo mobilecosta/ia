@@ -14,6 +14,11 @@ https://github.com/diogobritodesign/tokenbar
 
 https://youtu.be/NsAgZF20k1I?is=RZFGj0w8dYulSere
 
+## Reversa
+https://www.youtube.com/watch?v=n3sjcSxUg1o
+
+https://github.com/morluto/rea
+
 ## FreeLLMAPI
 https://www.youtube.com/watch?v=BiZHi9LSbkQ
 
