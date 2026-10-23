@@ -6,6 +6,8 @@ http://localhost:20128/dashboard - https://9router.com/#get-started
 
 ## Ferramentas - https://lnkd.in/p/dQA_XH2C
 
+https://www.instagram.com/p/Dez9MzTEYTT/?utm_source=ig_web_copy_link&mdxt=NTc4MTIwNjQ2YQ==
+
 https://aimemorybr.netlify.app/pt-br/solutions/individuals/
 
 https://github.com/diogobritodesign/tokenbar
